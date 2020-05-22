@@ -1,0 +1,127 @@
+body{
+  background-color: white;
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.chaitanya-img{
+  margin-top: 50px;
+}
+
+.top-container{
+  background-color: #EAF6F6;
+      padding-top: 100px;
+}
+.middle-container{
+
+}
+
+.Description{
+  width: 50%;
+  margin: auto;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 40px 0 40px 0;
+}
+
+h2{
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  line-height: 2;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.62rem;
+  font-weight: bold;
+  margin: 50px auto 0 auto;
+}
+h3{
+  color: #11999E;
+  font-family: 'Oswald', sans-serif;
+
+}
+
+.top-cloud{
+  position: absolute;
+  left: 700px;
+  top:50px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.Skills-Image{
+  width:25%;
+  float: left;
+  margin-right: 30px;
+}
+
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+
+}
+
+.skill2-Image{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+hr {
+  border-style: none;
+  width: 5%;
+  height:0px;
+  border-top-style:dotted;
+  border-color: #EAF6F6;
+  Border-width: 6px;
+  margin-top: 100px;
+
+}
+p{
+  color: #40514E;
+}
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.btn {
+	background-color:#2BC4AD;
+	border-radius:8px;
+	border:1px solid #2BC4AD;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+}
+.btn:hover {
+	background-color:#30E3CB;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  margin-top: 30px;
+}
